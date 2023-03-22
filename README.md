@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 👨‍🎓 I study Computer Engineering at Sharif University of Technology.
+- 🔭 I’m interested in Computer Graphics.
+- 🌱 I’m currently learning OpenGL.
+- 📄 [Click here](https://github.com/mahdavifar2002/mahdavifar2002/raw/main/resources/CV/Ali_Mahdavifar_CV.pdf) to look at my CV.
+- 📫 How to reach me: Contact mahdavifar2002 at Gmail or Telegram.
+
 <!--
 **mahdavifar2002/mahdavifar2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
